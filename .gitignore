@@ -1,6 +1,8 @@
 /data/
 /outputs/
 /lightglue/weights/
+/Claims
+/.vscode
 *-checkpoint.ipynb
 *.pth
 
